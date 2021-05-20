@@ -1,4 +1,5 @@
 import pygame
+from objects import Player
 from objects import Ball
 from objects import Prize
 from objects import Bullet
